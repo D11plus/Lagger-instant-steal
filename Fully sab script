@@ -8,6 +8,14 @@ end)
 -- تشغيل السكريبت الثاني (Pastefy Script) في مسار منفصل
 task.spawn(function()
     pcall(function()
-        loadstring(game:HttpGet("https://pastefy.app/FDtZgMii/raw"))()
+         loadstring(game:HttpGet("https://pastebin.com/raw/a2U8H257"))()
     end)
 end)
+
+-- تشغيل السكريبت الثالث (ضع الرابط هنا) في مسار منفصل
+task.spawn(function()
+    pcall(function()
+        loadstring(game:HttpGet("https://pastebin.com/raw/GWmnj6ui"))()
+    end)
+end)
+​
