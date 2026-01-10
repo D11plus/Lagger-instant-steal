@@ -1,9 +1,3 @@
--- تشغيل السكريبت الأول (Instant Steal) في مسار منفصل
-task.spawn(function()
-    pcall(function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/D11plus/Sab/refs/heads/main/Instant%20steal"))()
-    end)
-end)
 
 -- تشغيل السكريبت الثاني (Pastefy Script) في مسار منفصل
 task.spawn(function()
